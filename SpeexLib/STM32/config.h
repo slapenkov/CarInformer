@@ -41,6 +41,8 @@
 
 #define EXPORT 
 
+#define USE_SMALLFT
+
 #define FIXED_POINT
 #define DISABLE_FLOAT_API
 #define DISABLE_VBR

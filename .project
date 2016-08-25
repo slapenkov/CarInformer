@@ -24,4 +24,11 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>gcc</name>
+			<type>2</type>
+			<location>C:/stm32prog/CarInformer/SpeexLib/STM32/libspeex/gcc</location>
+		</link>
+	</linkedResources>
 </projectDescription>
